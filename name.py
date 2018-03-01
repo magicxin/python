@@ -3,8 +3,8 @@ name="number lovelace"
 print(name.title())
 print(name.upper())
 print(name.lower())
-firstname="sui"
-lastname="xin"
+firstname="tom"
+lastname="magic"
 fullname=firstname+" "+lastname
 print(fullname)
 print('Hello,'+fullname.title()+'!')
